@@ -36,10 +36,10 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git@github.com:aktin/broker.git</connection>
-		<developerConnection>scm:git:git@github.com:aktin/broker.git</developerConnection>
+		<connection>scm:git:git@github.com:num-codex/broker.git</connection>
+		<developerConnection>scm:git:git@github.com:num-codex/broker.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/aktin/broker</url>
+		<url>https://github.com/num-codex/broker</url>
 	</scm>
 	<distributionManagement>
 		<repository>
