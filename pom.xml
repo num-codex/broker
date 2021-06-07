@@ -4,7 +4,7 @@
 
 	<groupId>org.aktin</groupId>
 	<artifactId>broker</artifactId>
-	<version>1.3-SNAPSHOT</version>
+	<version>0.0-Test2</version>
 
 	<name>AKTIN : Broker</name>
 	<description>AKTIN Search Broker</description>
@@ -38,7 +38,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:num-codex/broker.git</connection>
 		<developerConnection>scm:git:git@github.com:num-codex/broker.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v0.0-Test2</tag>
 		<url>https://github.com/num-codex/broker</url>
 	</scm>
 	<distributionManagement>
